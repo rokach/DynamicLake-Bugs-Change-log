@@ -1,6 +1,6 @@
-# DynamicLakePro Bug Reports
+# DynamicLake Bug Reports
 
-Welcome to the official bug report repository for **DynamicLakePro**.
+Welcome to the official bug report repository for **DynamicLake**.
 
 ---
 
@@ -33,4 +33,4 @@ Such issues will be closed without response.
 
 Please visit the [main website](https://www.dynamiclake.com) or contact us via email: **aviorprod@gmail.com**
 
-Thank you for helping us improve DynamicLakePro
+Thank you for helping us improve DynamicLake
